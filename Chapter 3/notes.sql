@@ -1,0 +1,5 @@
+-- DATE vs DATETIME
+/*
+-- DATE YYYY-MM-DD 2022-09-14
+-- YYYY-MM-DD hh:mm:ss[.nnn] 2020-09-14 06:02:14[.432]
+*/

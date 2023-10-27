@@ -19,4 +19,4 @@ VALUES (
     'Little Rock',
     'AR',
     '72209'
-  )
+  );
